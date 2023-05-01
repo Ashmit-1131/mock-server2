@@ -6,7 +6,7 @@
       "productName": "CONTRAST COLLAR JACKET",
      "price": "₹ 3,490.00",
   "strikedPrice": "₹ 7,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 55
   },
@@ -16,7 +16,7 @@
       "productName": "TEXTURED BLAZER",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 55
   },
@@ -26,7 +26,7 @@
       "productName": "LIGHTWIEGHT RUBBERISED JACKET",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 50
   },
@@ -36,7 +36,7 @@
       "productName": "COTTON JACKET WITH POCKETS",
      "price": "₹ 3,490.00",
   "strikedPrice": "₹ 7,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 55
   },
@@ -46,7 +46,7 @@
       "productName": "BASIC DENIM JACKET",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 2,999.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 20
   },
@@ -56,7 +56,7 @@
       "productName": "OVERSHIRT WITH CONTRAST POCKETS",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 55
   },
@@ -66,7 +66,7 @@
       "productName": "TECHNICAL JACKET",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 50
   },
@@ -76,7 +76,7 @@
       "productName": "LIGHTWIEGHT TECHNICAL JACKET",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Jackets",
    "sale": 55
   },
@@ -88,7 +88,7 @@
       "productName": "GEOMETRIC JACQUARD OVERSHIRT",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 45
   },
@@ -98,7 +98,7 @@
       "productName": "OVERSHIRT WITH POCKETS",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 55
   },
@@ -108,7 +108,7 @@
       "productName": "STRIPED JACQUARD SHIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 65
   },
@@ -118,7 +118,7 @@
       "productName": "CORDUROY OVERSHIRT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 55
   },
@@ -128,7 +128,7 @@
       "productName": "PATCH OVERSHIRT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 55
   },
@@ -138,7 +138,7 @@
       "productName": "FAUX SHEARLING CHECK OVERSHIRT",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 45
   },
@@ -148,7 +148,7 @@
       "productName": "STRIPED JACQUARD OVERSHIRT",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 45
   },
@@ -158,7 +158,7 @@
       "productName": "® ERIN WILSON PATCH OVERSHIRT",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Overshirt",
    "sale": 45
   },
@@ -170,7 +170,7 @@
       "productName": "COTTON AND SILK KNIT POLO SHIRT",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -180,7 +180,7 @@
       "productName": "WOOL - SILK SWEATER",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -190,7 +190,7 @@
       "productName": "COTTON SWEATER WITH PATCH DETAIL",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -200,7 +200,7 @@
       "productName": "COMBINED KNIT T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 60
   },
@@ -210,7 +210,7 @@
       "productName": "GRAPHIC PRINT SWEATER",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -220,7 +220,7 @@
       "productName": "ABSTRACT JACQUARD SWEATER",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -230,7 +230,7 @@
       "productName": "STRIPED SWEATER",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -240,7 +240,7 @@
       "productName": "MOUNTAIN JACQUARD CARDIGAN",
      "price": "₹ 2,290.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Knitwear",
    "sale": 50
   },
@@ -252,7 +252,7 @@
       "productName": "CONTRAST SLOGAN SHIRT",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 55
   },
@@ -262,7 +262,7 @@
       "productName": "COLOURED COTTON SHIRT",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 35
   },
@@ -272,7 +272,7 @@
       "productName": "LYOCELL - LINEN SHIRT",
      "price": "₹ 1,490.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 45
   },
@@ -282,7 +282,7 @@
       "productName": "WATERCOLOUR PRINT SHIRT",
      "price": "₹ 1,490.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 50
   },
@@ -292,7 +292,7 @@
       "productName": "SLOGAN PRINT SHIRT",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 55
   },
@@ -302,7 +302,7 @@
       "productName": "FLORAL PRINT SHIRT",
      "price": "₹ 1,490.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 45
   },
@@ -312,7 +312,7 @@
       "productName": "PALM TREE PRINT SHIRT",
      "price": "₹ 1,490.00",
   "strikedPrice": "₹ 2,999.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 50
   },
@@ -322,7 +322,7 @@
       "productName": "COTTON - HEMP SHIRT",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,999.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shirt",
    "sale": 55
   },
@@ -334,7 +334,7 @@
       "productName": "TIE-DYE PRINT SWEATSHIRT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 55
   },
@@ -344,7 +344,7 @@
       "productName": "BASIC LIGHTWEIGHT T-SHIRT",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 25
   },
@@ -354,7 +354,7 @@
       "productName": "CHERRY COKE T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 50
   },
@@ -364,7 +364,7 @@
       "productName": "CONTRAST PRINT T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 50
   },
@@ -374,7 +374,7 @@
       "productName": "MICKEY MOUSE PRINT T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 50
   },
@@ -384,7 +384,7 @@
       "productName": "PIQUÉ TEXTURE T-SHIRT",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 50
   },
@@ -394,7 +394,7 @@
       "productName": "KNIT T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 45
   },
@@ -404,7 +404,7 @@
       "productName": "PAINT SPLATTER PRINT T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,999.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "T-Shirt",
    "sale": 50
   },
@@ -416,7 +416,7 @@
       "productName": "THE 90S SLIM FIT JEANS",
      "price": "₹ 2,490.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 45
   },
@@ -426,7 +426,7 @@
       "productName": "TEXTURED COTTON TROUSERS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 60
   },
@@ -436,7 +436,7 @@
       "productName": "THE 90S CROPPED FIT JEANS",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 55
   },
@@ -446,7 +446,7 @@
       "productName": "COTTON - LYOCELL TROUSERS",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 55
   },
@@ -456,7 +456,7 @@
       "productName": "JOGGING TROUSERS WITH SIDE STRIPES",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 55
   },
@@ -466,7 +466,7 @@
       "productName": "FLORAL PRINT TROUSERS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 60
   },
@@ -476,7 +476,7 @@
       "productName": "COTTON PLEATED TROUSERS",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 55
   },
@@ -486,7 +486,7 @@
       "productName": "SOFT DENIM TROUSERS",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Trousers",
    "sale": 55
   },
@@ -498,7 +498,7 @@
       "productName": "FLORAL PRINT BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 70
   },
@@ -508,7 +508,7 @@
       "productName": "ABSTRACT PRINT KNIT BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 75
   },
@@ -518,7 +518,7 @@
       "productName": "RIPPED DENIM BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 60
   },
@@ -528,7 +528,7 @@
       "productName": "CONTRAST BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 75
   },
@@ -538,7 +538,7 @@
       "productName": "STRIPED JOGGING BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 75
   },
@@ -548,7 +548,7 @@
       "productName": "STRAIGHT FIT DENIM BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 60
   },
@@ -558,7 +558,7 @@
       "productName": "BERMUDA SHORTS WITH SIDE TAPING",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 2,490.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 75
   },
@@ -568,7 +568,7 @@
       "productName": "SKATE FIT DENIM BERMUDA SHORTS",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 2,490.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Shorts",
    "sale": 75
   },
@@ -579,7 +579,7 @@
       "productName": "TECHNICAL T-SHIRT WITH ZIP",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 3,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 50
   },
@@ -589,7 +589,7 @@
       "productName": "HOODIE",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 40
   },
@@ -599,7 +599,7 @@
       "productName": "TECHNICAL T-SHIRT WITH ZIP",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 3,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 50
   },
@@ -609,7 +609,7 @@
       "productName": "SEAMLESS SINGLET TOP",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,890.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 55
   },
@@ -619,7 +619,7 @@
       "productName": "ZIP-UP NEXT T-SHIRT",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 40
   },
@@ -629,7 +629,7 @@
       "productName": "SEAMLESS SINGLET TOP",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,890.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 40
   },
@@ -639,7 +639,7 @@
       "productName": "SEAMLESS LEGGINGS",
      "price": "₹ 1,290.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 55
   },
@@ -649,7 +649,7 @@
       "productName": "LONG SLEEVE SEAMLESS T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "male",
+    "itemGender": "male",
     "itemCategory": "Zara_Athleticz",
    "sale": 65
   }
@@ -662,7 +662,7 @@
       "productName": "PRINTED MIDI DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "60%"
   },
@@ -673,7 +673,7 @@
       "productName": "FAUX LEATHER DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "60%"
   },
@@ -684,7 +684,7 @@
       "productName": "LEGGINGS WITH VENT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "60%"
   },
@@ -695,7 +695,7 @@
       "productName": "CARROT FIT CROPPED TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "40%"
   },
@@ -706,7 +706,7 @@
       "productName": "LINEN BLEND DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "60%"
   },
@@ -717,7 +717,7 @@
       "productName": "LINEN BLEND TOP",
      "price": "₹ 890.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "60%"
   },
@@ -728,7 +728,7 @@
       "productName": "VOLUMINOUS POPLIN SHIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "45%"
   },
@@ -739,7 +739,7 @@
       "productName": "FINE CORDUROY SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "50%"
   },
@@ -750,7 +750,7 @@
       "productName": "LYOCELL V-NECK T-SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "50%"
   },
@@ -761,7 +761,7 @@
       "productName": "FITTED KNIT BLOUSE",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "50%"
   },
@@ -772,7 +772,7 @@
       "productName": "PRINTED MIDI DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "50%"
   },
@@ -783,7 +783,7 @@
       "productName": "LONG EMBROIDERED DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "STARTING FROM 40%",
    "sale": "50%"
   },
@@ -794,7 +794,7 @@
       "productName": "QUILTED JACKET",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "45%"
   },
@@ -805,7 +805,7 @@
       "productName": "QUILTED JACKET",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "45%"
   },
@@ -816,7 +816,7 @@
       "productName": "FAUX SHEARLING OVERSHIRT",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "45%"
   },
@@ -827,7 +827,7 @@
       "productName": "BLOCK SWEATSHI",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "45%"
   },
@@ -838,7 +838,7 @@
       "productName": "JACKET WITH POCKETS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "60%"
   },
@@ -849,7 +849,7 @@
       "productName": "RETRO JACKET",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "40%"
   },
@@ -860,7 +860,7 @@
       "productName": "DENIM OVERSHIRT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "30%"
   },
@@ -871,7 +871,7 @@
       "productName": "WATER-REPELLENT PACKAWAY JACKET",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "30%"
   },
@@ -882,7 +882,7 @@
       "productName": "REVERSIBLE PRINTED KIMONO",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "30%"
   },
@@ -893,7 +893,7 @@
       "productName": "SHORT KIMONO WITH BELT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "30%"
   },
@@ -904,7 +904,7 @@
       "productName": "WOOL BLEND COAT WITH GOLDEN BUTT..",
      "price": "₹ 4,990.00",
   "strikedPrice": "₹ 9,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "50%"
   },
@@ -915,7 +915,7 @@
       "productName": "CROPPED CHECK BLAZER",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JACKETS_PUFFERS",
    "sale": "50%"
   },
@@ -926,7 +926,7 @@
       "productName": "TAILORED BLAZER",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 7,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "50%"
   },
@@ -937,7 +937,7 @@
       "productName": "TEXTURED CROPPED BLAZER",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,490.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "45%"
   },
@@ -948,7 +948,7 @@
       "productName": "GATHERED BLAZER",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 7,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "50%"
   },
@@ -959,7 +959,7 @@
       "productName": "STRAIGHT LINEN BLAZER",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 6,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "55%"
   },
@@ -970,7 +970,7 @@
       "productName": "TEXTURED CROPPED BLAZER",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 5,490.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "45%"
   },
@@ -981,7 +981,7 @@
       "productName": "CREASED-EFFECT SATIN BLAZER",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 6,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "40%"
   },
@@ -992,7 +992,7 @@
       "productName": "WOOL BLEND STRIPED FROCK COAT",
      "price": "₹ 4,990.00",
   "strikedPrice": "₹ 10,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "50%"
   },
@@ -1003,7 +1003,7 @@
       "productName": "LIMITED EDITION PINSTRIPE BLAZER",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 9,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "60%"
   },
@@ -1014,7 +1014,7 @@
       "productName": "DINNER JACKET LIMITED EDITION",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 9,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "60%"
   },
@@ -1025,7 +1025,7 @@
       "productName": "MATCHING VELVET WAISTCOAT",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "60%"
   },
@@ -1036,7 +1036,7 @@
       "productName": "LINEN BLEND HALTERNECK WAISTCOAT",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "60%"
   },
@@ -1047,7 +1047,7 @@
       "productName": "OVERSIZE FLOWING BLAZER",
      "price": "₹ 2,990.00",
   "strikedPrice": "₹ 6,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "BLAZERS_COATS",
    "sale": "60%"
   },
@@ -1058,7 +1058,7 @@
       "productName": "PRINTED MIDI DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1069,7 +1069,7 @@
       "productName": "FAUX LEATHER DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ ₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1080,7 +1080,7 @@
       "productName": "LINEN BLEND DRESS WITH CUT-OUT",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1091,7 +1091,7 @@
       "productName": "SATIN MIDI DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1102,7 +1102,7 @@
       "productName": "LONG EMBROIDERED DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "70%"
   },
@@ -1113,7 +1113,7 @@
       "productName": "RUFFLED PRINTED DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1124,7 +1124,7 @@
       "productName": "MINI DRESS WITH KNOT",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1135,7 +1135,7 @@
       "productName": "PRINTED SATIN DRESS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 4,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1146,7 +1146,7 @@
       "productName": "DENIM DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1157,7 +1157,7 @@
       "productName": "KAPPA UNITARD",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1168,7 +1168,7 @@
       "productName": "PRINTED SATIN DRESS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1179,7 +1179,7 @@
       "productName": "RIBBED MIDI DRESS",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "DRESSES_JUMPSUITS",
    "sale": "60%"
   },
@@ -1190,7 +1190,7 @@
       "productName": "TEXTURED PRINTED BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1201,7 +1201,7 @@
       "productName": "FINE CORDUROY SHIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "50%"
   },
@@ -1212,7 +1212,7 @@
       "productName": "FLOWING JACQUARD SHIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1223,7 +1223,7 @@
       "productName": "VOLUMINOUS POPLIN SHIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1234,7 +1234,7 @@
       "productName": "CROSSOVER PRINTED BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1245,7 +1245,7 @@
       "productName": "PRINTED PLEATED BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1256,7 +1256,7 @@
       "productName": "FITTED KNIT BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1267,7 +1267,7 @@
       "productName": "STRIPED BLOUSE WITH POCKET",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1278,7 +1278,7 @@
       "productName": "RUSTIC TOP WITH POCKET",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1289,7 +1289,7 @@
       "productName": "FLORAL PRINT BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1300,7 +1300,7 @@
       "productName": "TEXTURED COTTON BLOUSE",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1311,7 +1311,7 @@
       "productName": "LOOSE-FITTING SHIRT WITH POCKETS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SHIRTS",
    "sale": "45%"
   },
@@ -1322,7 +1322,7 @@
       "productName": "ZW THE CARPENTER STRAIGHT JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "40%"
   },
@@ -1333,7 +1333,7 @@
       "productName": "ZW THE MERCER JOGGER JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "40%"
   },
@@ -1344,7 +1344,7 @@
       "productName": "FLARE STRIPED CROPPED JEANS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1355,7 +1355,7 @@
       "productName": "SPLIT HEM ZW THE SKINNY JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1366,7 +1366,7 @@
       "productName": "FLARED TROUSERS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1377,7 +1377,7 @@
       "productName": "Z1975 HIGH RISE SLIM FLARE JEANS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1388,7 +1388,7 @@
       "productName": "ZW THE SKINNY FLARE JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1399,7 +1399,7 @@
       "productName": "ZW THE SKINNY FLARE JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1410,7 +1410,7 @@
       "productName": "ZW THE 90S SLIM SPLIT-HEM JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1421,7 +1421,7 @@
       "productName": "Z1975 HIGH RISE SLIM FLARE JEANS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1432,7 +1432,7 @@
       "productName": "JEANS ZW THE NOA MOM FIT",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1443,7 +1443,7 @@
       "productName": "ZW THE SKINNY JEANS",
      "price": "₹ 1,790.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "JEANS",
    "sale": "55%"
   },
@@ -1455,7 +1455,7 @@
       "productName": "EXTRA-LONG LEGGINGS WITH VENT===",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "60%"
   },
@@ -1466,7 +1466,7 @@
       "productName": "CARROT FIT CROPPED TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "60%"
   },
@@ -1477,7 +1477,7 @@
       "productName": "SHIRRED WAIST TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "45%"
   },
@@ -1488,7 +1488,7 @@
       "productName": "FINELY PLEATED PALAZZO TROUSERS",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "50%"
   },
@@ -1499,7 +1499,7 @@
       "productName": "PRINTED CROPPED TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "45%"
   },
@@ -1510,7 +1510,7 @@
       "productName": "SPLIT HEM LEGGINGS",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "40%"
   },
@@ -1521,7 +1521,7 @@
       "productName": "STRAIGHT-LEG PYJAMA-STYLE TROUSER",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "40%"
   },
@@ -1532,7 +1532,7 @@
       "productName": "RIBBED WIDE-LEG TROUSERS",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "50%"
   },
@@ -1543,7 +1543,7 @@
       "productName": "FLORAL PRINT TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "45%"
   },
@@ -1554,7 +1554,7 @@
       "productName": "SLIM FIT PRINTED TROUSERS",
      "price": "₹ 890.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "30%"
   },
@@ -1565,7 +1565,7 @@
       "productName": "TEXTURED COTTON TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "45%"
   },
@@ -1576,7 +1576,7 @@
       "productName": "PRINTED FLARED TROUSERS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TROUSERS",
    "sale": "40%"
   },
@@ -1587,7 +1587,7 @@
       "productName": "V-NECK BASIC T-SHIRT",
      "price": "₹ 390.00",
   "strikedPrice": "₹ 590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "30%"
   },
@@ -1598,7 +1598,7 @@
       "productName": "RIBBED POLO SHIRT",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "60%"
   },
@@ -1609,7 +1609,7 @@
       "productName": "CUT-OUT RIBBED TOP",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "55%"
   },
@@ -1620,7 +1620,7 @@
       "productName": "BASIC TANK TOP",
      "price": "₹ 390.00",
   "strikedPrice": "₹ 590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "30%"
   },
@@ -1631,7 +1631,7 @@
       "productName": "T-SHIRT WITH BUTTON DETAILS",
      "price": "₹ 490.00",
   "strikedPrice": "₹ 890.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "30%"
   },
@@ -1642,7 +1642,7 @@
       "productName": "ASYMMETRIC OVERSIZED T-SHIRT",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "55%"
   },
@@ -1653,7 +1653,7 @@
       "productName": "LYOCELL V-NECK T-SHIRT",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,490.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "30%"
   },
@@ -1664,7 +1664,7 @@
       "productName": "BASIC TANK TOP",
      "price": "₹ 390.00",
   "strikedPrice": "₹ 490.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "30%"
   },
@@ -1675,7 +1675,7 @@
       "productName": "OVERSIZE V-NECK T-SHIRT",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "60%"
   },
@@ -1686,7 +1686,7 @@
       "productName": "ASYMMETRIC TOP",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "60%"
   },
@@ -1697,7 +1697,7 @@
       "productName": "CROPPED POLO SHIRT",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "55%"
   },
@@ -1708,7 +1708,7 @@
       "productName": "SEAMLESS TOP",
      "price": "₹ 590.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "T-SHIRTS",
    "sale": "60%"
   },
@@ -1719,7 +1719,7 @@
       "productName": "LINEN BLEND TOP WITH CUT-OUT DETAIL",
      "price": "₹ 890.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "30%"
   },
@@ -1730,7 +1730,7 @@
       "productName": "SATIN CAMISOLE TOP",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "70%"
   },
@@ -1741,7 +1741,7 @@
       "productName": "CROPPED CORSETRY-INSPIRED CHECK..",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "50%"
   },
@@ -1752,7 +1752,7 @@
       "productName": "STRAPPY BODYSUIT",
      "price": "₹ 490.00",
   "strikedPrice": "₹ 990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "50%"
   },
@@ -1763,7 +1763,7 @@
       "productName": "PRINTED LINGERIE TOP",
      "price": "₹ 690.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
      "sale": "65%"
   },
@@ -1774,7 +1774,7 @@
       "productName": "SATIN-EFFECT STRAPPY BODYSUIT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "50%"
   },
@@ -1785,7 +1785,7 @@
       "productName": "RUSTIC TOP WITH POCKET",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "45%"
   },
@@ -1796,7 +1796,7 @@
       "productName": "PRINTED TUNIC",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "45%"
   },
@@ -1807,7 +1807,7 @@
       "productName": "PRINTED PATCHWORK TOP",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "40%"
   },
@@ -1818,7 +1818,7 @@
       "productName": "JACQUARD TOP WITH CUT-OUT DETAIL",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
   "sale": "35%"
   },
@@ -1829,7 +1829,7 @@
       "productName": "ASYMMETRIC TOP",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "40%"
   },
@@ -1840,7 +1840,7 @@
       "productName": "FLORAL PRINT ASYMMETRIC TOP",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "TOPS_BODYSUITS",
    "sale": "60%"
   },
@@ -1851,7 +1851,7 @@
       "productName": "",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1862,7 +1862,7 @@
       "productName": "TULLE MIDI SKIRT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "60%"
   },
@@ -1873,7 +1873,7 @@
       "productName": "FLORAL SKORT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1884,7 +1884,7 @@
       "productName": "STRAIGHT SHORTS WITH DAISY PRINT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1895,7 +1895,7 @@
       "productName": "ZW THE HIGH WAIST SHORTS",
      "price": "₹2,790.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1906,7 +1906,7 @@
       "productName": "STRAIGHT SATIN SKIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1917,7 +1917,7 @@
       "productName": "FLORAL SKORT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1928,7 +1928,7 @@
       "productName": "POLKA DOT SKORTS",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1939,7 +1939,7 @@
       "productName": "FLORAL PRINT SKIRT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1950,7 +1950,7 @@
       "productName": "PRINTED SARONG SKIRT",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1961,7 +1961,7 @@
       "productName": "GINGHAM SKORT",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1972,7 +1972,7 @@
       "productName": "BELTED BERMUDA SHORTS",
      "price": "₹ 1,190.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "SKIRTS_SHORTS",
    "sale": "45%"
   },
@@ -1983,7 +1983,7 @@
       "productName": "KNIT FAUX FUR WAISTCOAT WITH OPENI",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "40%"
   },
@@ -1994,7 +1994,7 @@
       "productName": "WOOL BLEND AND CASHMERE SWEATER",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2005,7 +2005,7 @@
       "productName": "OVERSIZE KNIT PULLOVER WITH HOOD",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "40%"
   },
@@ -2016,7 +2016,7 @@
       "productName": "WOOL BLEND AND CASHMERE SWEATER",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2027,7 +2027,7 @@
       "productName": "WOOL BLEND AND CASHMERE SWEATER",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2038,7 +2038,7 @@
       "productName": "JACQUARD TOP WITH CUT-OUT DETAIL",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2049,7 +2049,7 @@
       "productName": "CABLE-KNIT SWEATER WITH STRIPES",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2060,7 +2060,7 @@
       "productName": "HOODED KNIT TOP",
      "price": "₹ 1,990.00",
   "strikedPrice": "₹ 2,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
    "sale": "30%"
   },
@@ -2071,7 +2071,7 @@
       "productName": "KNIT FLORAL CROP TOP",
      "price": "₹ 790.00",
   "strikedPrice": "₹ 990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
      "sale": "20%"
   },
@@ -2082,7 +2082,7 @@
       "productName": "CONTRASTING COLOUR BLOCK SWEATSHIR..",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
   "sale": "35%"
   },
@@ -2093,7 +2093,7 @@
       "productName": "KNIT TOP WITH OPEN BACK",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
      "sale": "20%"
   },
@@ -2104,7 +2104,7 @@
       "productName": "STRIPED KNIT VEST",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "KNITWEAR",
   "sale": "35%"
   },
@@ -2115,7 +2115,7 @@
       "productName": "MOBILE PHONE BAG WITH PURSE",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,790.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "40%"
   },
@@ -2126,7 +2126,7 @@
       "productName": "CONTRASTING STONE BEAD NECKLACE",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "60%"
   },
@@ -2137,7 +2137,7 @@
       "productName": "PEARL NECKLACE PLATED IN 24K GOLD",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "50%"
   },
@@ -2148,7 +2148,7 @@
       "productName": "DIAMOND JACQUARD SCARF",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
   "sale": "35%"
   },
@@ -2159,7 +2159,7 @@
       "productName": "KNIT FRETWORK BEANIE",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
   "sale": "35%"
   },
@@ -2170,7 +2170,7 @@
       "productName": "KNIT SCARF WITH FRINGING",
      "price": "₹ 1,590.00",
   "strikedPrice": "₹ 2,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
   "sale": "35%"
   },
@@ -2181,7 +2181,7 @@
       "productName": "MAXI RHINESTONE BELT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "50%"
   },
@@ -2192,7 +2192,7 @@
       "productName": "ROUND STONE NECKLACE",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "50%"
   },
@@ -2203,7 +2203,7 @@
       "productName": "STRETCH DIAMANTÉ BELT",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "40%"
   },
@@ -2214,7 +2214,7 @@
       "productName": "PARIS 10ML",
      "price": "₹ 290.00",
   "strikedPrice": "₹ 390.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
      "sale": "20%"
   },
@@ -2225,7 +2225,7 @@
       "productName": "NYLON TOTE BAG - YOGA COLLECTION",
      "price": "₹ 3,990.00",
   "strikedPrice": "₹ 4,990.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
      "sale": "20%"
   },
@@ -2236,7 +2236,7 @@
       "productName": "PACK OF ASSORTED BRACELETS",
      "price": "₹ 990.00",
   "strikedPrice": "₹ 1,590.00",
-    " itemGender": "female",
+    "itemGender": "female",
     "itemCategory": "ACCESSORIES",
    "sale": "40%"
   }
@@ -2249,7 +2249,7 @@
         "productName": "TEXTURED FLORAL DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "40 % OFF",
       "age": "6-14 Years"
@@ -2260,7 +2260,7 @@
         "productName": "HOUNDSTOOTH PINAFORE DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2271,7 +2271,7 @@
         "productName": "TEXTURED CROSSOVER JUMPSUIT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2282,7 +2282,7 @@
         "productName": "SHIMMERY VELVET LEGGINGS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "35 % OFF",
       "age": "6-14 Years"
@@ -2293,7 +2293,7 @@
         "productName": "FLORAL LOOSE FIT TROUSERS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "40 % OFF",
       "age": "6-14 Years"
@@ -2304,7 +2304,7 @@
         "productName": "PLAIN SWEATSHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45% OFF / +2 COLOURS",
       "age": "6-14 Years"
@@ -2315,7 +2315,7 @@
         "productName": "SHIRT WITH FLORAL KNOT",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45% OFF",
       "age": "6-14 Years"
@@ -2326,7 +2326,7 @@
         "productName": "TEXTURED PLUMETIS DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45% OFF",
       "age": "6-14 Years"
@@ -2337,7 +2337,7 @@
         "productName": "FLORAL SHIRT DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2348,7 +2348,7 @@
         "productName": "PLAIN SWEATSHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "45% OFF / +2 COLOURS",
       "age": "6-14 Years"
@@ -2359,7 +2359,7 @@
         "productName": "RIBBED RAGLAN SLEEVE T-SHIRT",
        "price": "₹ 550.00",
     "strikedPrice": "₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2370,7 +2370,7 @@
         "productName": "TEXTURED FLORAL DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "40 % OFF",
       "age": "6-14 Years"
@@ -2382,7 +2382,7 @@
         "productName": "HOUNDSTOOTH PINAFORE DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2393,7 +2393,7 @@
         "productName": "HOUNDSTOOTH PINAFORE DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2404,7 +2404,7 @@
         "productName": "CONTRAST FLORAL RIBBED JUMPSUIT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2415,7 +2415,7 @@
         "productName": "TEXTURED PLUMETIS DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2426,7 +2426,7 @@
         "productName": "TEXTURED PLUMETIS DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "45% OFF",
       "age": "6-14 Years"
@@ -2437,7 +2437,7 @@
         "productName": "FLORAL SHIRT DRESS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "DRESSES | JUMPSUITS",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2448,7 +2448,7 @@
         "productName": "DENIM OVERSHIRT WITH SNAP BUTTONS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2459,7 +2459,7 @@
         "productName": "PAISLEY FAUX SHEARLING GILET",
        "price": "₹ 1,590.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "30% OFF",
       "age": "6-14 Years"
@@ -2470,7 +2470,7 @@
         "productName": "PAISLEY FAUX SHEARLING GILET",
        "price": "₹ 1,590.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "30% OFF",
       "age": "6-14 Years"
@@ -2481,7 +2481,7 @@
         "productName": "RIBBED POLO SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "55% OFF / +2 COLOURS",
       "age": "6-14 Years"
@@ -2492,7 +2492,7 @@
         "productName": "STRIPED T-SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "55% OFF",
       "age": "6-14 Years"
@@ -2503,7 +2503,7 @@
         "productName": "STRIPED T-SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "55% OFF",
       "age": "6-14 Years"
@@ -2514,7 +2514,7 @@
         "productName": "HOUNDSTOOTH OVERSHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2526,7 +2526,7 @@
         "productName": "RIBBED RAGLAN SLEEVE T-SHIRT",
        "price": "₹  550.00",
     "strikedPrice": "₹₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2537,7 +2537,7 @@
         "productName": "RIBBED T-SHIRT WITH HEARTS",
        "price": "₹  550.00",
     "strikedPrice": "₹₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "55% OFF",
       "age": "6-14 Years"
@@ -2548,7 +2548,7 @@
         "productName": "RIBBED T-SHIRT WITH HEARTS",
        "price": "₹  550.00",
     "strikedPrice": "₹₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "T-SHIRTS",
       "sale": "55% OFF",
       "age": "6-14 Years"
@@ -2559,7 +2559,7 @@
         "productName": "SHIMMERY VELVET LEGGINGS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "35 % OFF",
       "age": "6-14 Years"
@@ -2570,7 +2570,7 @@
         "productName": "SHINY TROUSERS WITH VENTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "55 % OFF",
       "age": "6-14 Years"
@@ -2581,7 +2581,7 @@
         "productName": "SHINY TROUSERS WITH VENTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "55 % OFF",
       "age": "6-14 Years"
@@ -2592,7 +2592,7 @@
         "productName": "FLORAL LOOSE FIT TROUSERS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "40 % OFF",
       "age": "6-14 Years"
@@ -2603,7 +2603,7 @@
         "productName": "RIBBED ANIMAL PRINT TROUSERS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "45 % OFF",
       "age": "6-14 Years"
@@ -2614,7 +2614,7 @@
         "productName": "FLORAL JACQUARD SEAMLESS LEGGINGS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "35 % OFF",
       "age": "6-14 Years"
@@ -2625,7 +2625,7 @@
         "productName": "FLORAL JACQUARD SEAMLESS LEGGINGS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "35 % OFF",
       "age": "6-14 Years"
@@ -2636,7 +2636,7 @@
         "productName": "SOFT MARINE JEANS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "40 % OFF",
       "age": "6-14 Years"
@@ -2647,7 +2647,7 @@
         "productName": "SHIRT WITH FLORAL KNOT",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "45% OFF",
       "age": "6-14 Years"
@@ -2658,7 +2658,7 @@
         "productName": "HOUNDSTOOTH OVERSHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2669,7 +2669,7 @@
         "productName": "RIBBED WAVY SEAMLESS TOP",
        "price": "₹ 550.00",
     "strikedPrice": "₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2680,7 +2680,7 @@
         "productName": "DENIM OVERSHIRT WITH SNAP BUTTONS",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2691,7 +2691,7 @@
         "productName": "RIBBED WAVY SEAMLESS TOP",
        "price": "₹ 550.00",
     "strikedPrice": "₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2702,7 +2702,7 @@
         "productName": "RIBBED WAVY SEAMLESS TOP",
        "price": "₹ 550.00",
     "strikedPrice": "₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2713,7 +2713,7 @@
         "productName": "SEAMLESS FLORAL JACQUARD TOP",
        "price": "₹ 550.00",
     "strikedPrice": "₹ 990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHIRTS | BLOUSES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2724,7 +2724,7 @@
         "productName": "CHECK PRINT BERMUDA SKORT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2735,7 +2735,7 @@
         "productName": "JACQUARD WRAP SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "65% OFF",
       "age": "6-14 Years"
@@ -2746,7 +2746,7 @@
         "productName": "GATHERED VELVET SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2757,7 +2757,7 @@
         "productName": "GATHERED VELVET SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2768,7 +2768,7 @@
         "productName": "PLAIN KNIT BERMUDA SHORTS",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "35% OFF / +1 COLOUR",
       "age": "6-14 Years"
@@ -2779,7 +2779,7 @@
         "productName": "CONTRAST FLORAL SKIRT",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "65% OFF",
       "age": "6-14 Years"
@@ -2790,7 +2790,7 @@
         "productName": "CONTRAST FLORAL SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "65% OFF",
       "age": "6-14 Years"
@@ -2801,7 +2801,7 @@
         "productName": "PLUSH JERSEY BOX PLEAT SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2812,7 +2812,7 @@
         "productName": "NEEDLECORD SKIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SKIRTS | SHORTS",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2823,7 +2823,7 @@
         "productName": "BEADED LEATHER MOUNTAIN ANKLE BOOTS",
        "price": "₹ 2,990.00",
     "strikedPrice": "₹ 5,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2834,7 +2834,7 @@
         "productName": "TECHNICAL MOUNTAIN BOOTS - LIMITED EDITION",
        "price": "₹ 2,390.00",
     "strikedPrice": "₹ 3,790.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "35% OFF",
       "age": "6-14 Years"
@@ -2845,7 +2845,7 @@
         "productName": "LINED LEATHER ANKLE BOOTS",
        "price": "₹ 2,990.00",
     "strikedPrice": "₹ 4,590.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "35% OFF",
       "age": "6-14 Years"
@@ -2856,7 +2856,7 @@
         "productName": "LEATHER MOUNTAIN BOOTS",
        "price": "₹ 2,990.00",
     "strikedPrice": "₹ 5,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2867,7 +2867,7 @@
         "productName": "LEATHER MOUNTAIN BOOTS",
        "price": "₹ 2,990.00",
     "strikedPrice": "₹ 5,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2878,7 +2878,7 @@
         "productName": "LEATHER MOUNTAIN BOOTS",
        "price": "₹ 2,990.00",
     "strikedPrice": "₹ 5,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "50% OFF",
       "age": "6-14 Years"
@@ -2889,7 +2889,7 @@
         "productName": "LEATHER WESTERN ANKLE BOOTS",
        "price": "₹ 2,390.00",
     "strikedPrice": "₹ 3,990.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "40% OFF",
       "age": "6-14 Years"
@@ -2901,7 +2901,7 @@
         "productName": "MONOCHROME RUBBERISED BOOTS",
        "price": "₹ 2,390.00",
     "strikedPrice": "₹ 3,590.00",
-      " itemGender": "womens",
+      "itemGender": "womens",
       "itemCategory": "SHOES",
       "sale": "30% OFF",
       "age": "6-14 Years"
@@ -2915,7 +2915,7 @@
         "productName": "LOGO HOODIE",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2926,7 +2926,7 @@
         "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2937,7 +2937,7 @@
         "productName": "BASIC PIQUÉ POLO SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2948,7 +2948,7 @@
         "productName": "BEACH WEEK T-SHIRT",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2959,7 +2959,7 @@
         "productName": "CORDUROY JOGGING TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2970,7 +2970,7 @@
         "productName": "JUST TROPICAL T-SHIRT",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2981,7 +2981,7 @@
         "productName": "CORDUROY JOGGING TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -2992,7 +2992,7 @@
         "productName": "CONTRAST SPORTS TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "UP TO 50% OFF",
       "sale": "",
       "age": "6-14 Years"
@@ -3003,7 +3003,7 @@
         "productName": "LOGO HOODIE",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3014,7 +3014,7 @@
         "productName": "LOGO HOODIE",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3025,7 +3025,7 @@
         "productName": "PLAIN SWEATSHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3036,7 +3036,7 @@
         "productName": "PLAIN SWEATSHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3047,7 +3047,7 @@
         "productName": "PLAIN SWEATSHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3059,7 +3059,7 @@
         "productName": "TUXEDO BLAZER",
        "price": "₹ 2,390.00",
     "strikedPrice": "₹ 3,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3070,7 +3070,7 @@
         "productName": "PIKACHU POKÉMON © NINTENDO HOODIE",
        "price": "₹ 1,590.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3081,7 +3081,7 @@
         "productName": "CHEQUERED HOODIE",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SWEATSHIRTS | JACKETS",
       "sale": "",
       "age": "6-14 Years"
@@ -3092,7 +3092,7 @@
         "productName": "BASIC PIQUÉ POLO SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3103,7 +3103,7 @@
         "productName": "BASIC PIQUÉ POLO SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3114,7 +3114,7 @@
         "productName": "BASIC PIQUÉ POLO SHIRT",
        "price": "₹ 350.00",
     "strikedPrice": "₹ 490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3125,7 +3125,7 @@
         "productName": "JUST TROPICAL T-SHIRT",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3136,7 +3136,7 @@
         "productName": "JUST TROPICAL T-SHIRT",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 790.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3147,7 +3147,7 @@
         "productName": "KEITH HARING ™ T-SHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3158,7 +3158,7 @@
         "productName": "KEITH HARING ™ T-SHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3169,7 +3169,7 @@
         "productName": "KEITH HARING ™ T-SHIRT",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "T-SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3180,7 +3180,7 @@
         "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3191,7 +3191,7 @@
         "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3202,7 +3202,7 @@
         "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3213,7 +3213,7 @@
         "productName": "SKELETON JUMPSUIT",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 2,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3224,7 +3224,7 @@
         "productName": "CORDUROY JOGGING TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3235,7 +3235,7 @@
         "productName": "CORDUROY JOGGING TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3246,7 +3246,7 @@
         "productName": "CORDUROY JOGGING TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3257,7 +3257,7 @@
         "productName": "CONTRAST SPORTS TROUSERS",
        "price": "₹ 990.00",
     "strikedPrice": "₹ 1,990.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "TROUSERS | JEANS",
       "sale": "",
       "age": "6-14 Years"
@@ -3268,7 +3268,7 @@
         "productName": "FLANNEL SHIRT WITH SLOGAN",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3279,7 +3279,7 @@
         "productName": "FLANNEL SHIRT WITH SLOGAN",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3290,7 +3290,7 @@
         "productName": "HOODED CORDUROY OVERSHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3301,7 +3301,7 @@
         "productName": "HOODED CORDUROY OVERSHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 2,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3312,7 +3312,7 @@
         "productName": "TEXTURED SHIRT",
        "price": "₹ 790.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3323,7 +3323,7 @@
         "productName": "MICRO-TEXTURED SHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3334,7 +3334,7 @@
         "productName": "STRIPED SHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3345,7 +3345,7 @@
         "productName": "BASIC SHIRT",
        "price": "₹ 1,190.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHIRTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3356,7 +3356,7 @@
         "productName": "TIE-DYE PLUSH BERMUDA SHORTS",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3367,7 +3367,7 @@
         "productName": "FLOWING LONGLINE BERMUDA SHORTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3378,7 +3378,7 @@
         "productName": "CHINO-STYLE BERMUDA SHORTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3389,7 +3389,7 @@
         "productName": "CHINO-STYLE BERMUDA SHORTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3400,7 +3400,7 @@
         "productName": "BASIC CHINO BERMUDA SHORTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,490.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3411,7 +3411,7 @@
         "productName": "DIP DYE PLUSH BERMUDA SHORTS",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3422,7 +3422,7 @@
         "productName": "SPORTY PLUSH BERMUDA SHORTS",
        "price": "₹ 450.00",
     "strikedPrice": "₹ 1,290.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3433,7 +3433,7 @@
         "productName": "RIBBED TECHNICAL BERMUDA SHORTS",
        "price": "₹ 690.00",
     "strikedPrice": "₹ 1,690.00",
-      " itemGender": "mens",
+      "itemGender": "mens",
       "itemCategory": "SHORTS",
       "sale": "",
       "age": "6-14 Years"
@@ -3446,7 +3446,7 @@
     "productName": "QUILTED MINI CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CROSSBODY BAG",
  "sale": "45%"
 },
@@ -3456,7 +3456,7 @@
     "productName": "ANIMAL PRINT QUILTED CROSSBODY BAG ",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,190.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PRINTED BAG",
  "sale": "50%"
 },
@@ -3466,7 +3466,7 @@
     "productName": "QUILTED MINI CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "QUILTED MINI BAG ",
  "sale": "45%"
 },
@@ -3476,7 +3476,7 @@
     "productName": "NYLON MINI TOTE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,190.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "NYLON MINI BAG",
  "sale": "45%"
 },
@@ -3486,7 +3486,7 @@
     "productName": "TRANSPARENT MINI TOTE BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "TOTE BAG",
  "sale": "45%"
 },
@@ -3496,7 +3496,7 @@
     "productName": "QUILTED CITY BAG WITH CHAIN STRAP",
 "strikedPrice": "₹ 4,290.00",
    "price": "₹ 2,790.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CHAIN STRAP BAG",
  "sale": "30%"
 },
@@ -3506,7 +3506,7 @@
     "productName": "FAUX FUR SHOULDER BAG WITH CHAIN",
 "strikedPrice": "₹ 3,590.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "SHOULDER BAG",
    "sale": "35%"
 },
@@ -3516,7 +3516,7 @@
     "productName": "QUILTED FABRIC CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CROSSBODY BAG",
  "sale": "45%"
 },
@@ -3526,7 +3526,7 @@
     "productName": "SHOULDER BAG WITH CHAIN",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CHAIN BAG",
  "sale": "45%"
 },
@@ -3536,7 +3536,7 @@
     "productName": " TOTE BAG WITH INTERWOVEN BASE",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "INTERWOVEN BASE BAG",
  "sale": "45%"
 },
@@ -3546,7 +3546,7 @@
     "productName": "PICNIC CASE",
 "strikedPrice": "₹ 4,990.00",
    "price": "₹ 3,990.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PICNIC CASE",
    "sale": "20%"
 },
@@ -3556,7 +3556,7 @@
     "productName": "NYLON TOTE BAG WITH HANDLES AT THE FRONT",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "NYLON TOTE BAG ",
  "sale": "45%"
 },
@@ -3566,7 +3566,7 @@
     "productName": "STUDDED MOBILE PHONE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PHONE BAG",
    "sale": "35%"
 },
@@ -3576,7 +3576,7 @@
     "productName": "BRAIDED SHOULDER BAG",
 "strikedPrice": "₹ 2,490.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BRAIDED BAG",
    "sale": "35%"
 },
@@ -3586,7 +3586,7 @@
     "productName": "RIGID TRAVEL CASE",
 "strikedPrice": "₹ 4,990.00",
    "price": "₹ 3,990.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": " TRAVEL CASE",
    "sale": "20%"
 },
@@ -3597,7 +3597,7 @@
     "productName": "PURPLE® WRISTBAND",
 "strikedPrice": "₹ 2,490.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "WRISTBAND",
    "sale": "35%"
 },
@@ -3607,7 +3607,7 @@
     "productName": "QUILTED BACKPACK",
 "strikedPrice": "₹ 3,590.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BACKPACK",
    "sale": "35%"
 },
@@ -3617,7 +3617,7 @@
     "productName": "CROCHET MAXI BUCKET BAG",
 "strikedPrice": "₹ 3,290.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "MAXI BUCKET BAG",
  "sale": "30%"
 },
@@ -3627,7 +3627,7 @@
     "productName": "SATIN BUCKET BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BUCKET BAG",
    "sale": "35%"
 },
@@ -3637,7 +3637,7 @@
     "productName": "JUTE TOTE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "JUTE TOTE BAG",
    "sale": "35%"
 }
@@ -3651,7 +3651,7 @@
     "productName": "CONTRAST COLLAR JACKET",
    "price": "₹ 3,490.00",
 "strikedPrice": "₹ 7,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 55
 },
@@ -3661,7 +3661,7 @@
     "productName": "TEXTURED BLAZER",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 55
 },
@@ -3671,7 +3671,7 @@
     "productName": "LIGHTWIEGHT RUBBERISED JACKET",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 50
 },
@@ -3681,7 +3681,7 @@
     "productName": "COTTON JACKET WITH POCKETS",
    "price": "₹ 3,490.00",
 "strikedPrice": "₹ 7,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 55
 },
@@ -3691,7 +3691,7 @@
     "productName": "BASIC DENIM JACKET",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 2,999.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 20
 },
@@ -3701,7 +3701,7 @@
     "productName": "OVERSHIRT WITH CONTRAST POCKETS",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 55
 },
@@ -3711,7 +3711,7 @@
     "productName": "TECHNICAL JACKET",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 50
 },
@@ -3721,7 +3721,7 @@
     "productName": "LIGHTWIEGHT TECHNICAL JACKET",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Jackets",
  "sale": 55
 },
@@ -3733,7 +3733,7 @@
     "productName": "GEOMETRIC JACQUARD OVERSHIRT",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 45
 },
@@ -3743,7 +3743,7 @@
     "productName": "OVERSHIRT WITH POCKETS",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 55
 },
@@ -3753,7 +3753,7 @@
     "productName": "STRIPED JACQUARD SHIRT",
    "price": "₹ 1,590.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 65
 },
@@ -3763,7 +3763,7 @@
     "productName": "CORDUROY OVERSHIRT",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 55
 },
@@ -3773,7 +3773,7 @@
     "productName": "PATCH OVERSHIRT",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 55
 },
@@ -3783,7 +3783,7 @@
     "productName": "FAUX SHEARLING CHECK OVERSHIRT",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 45
 },
@@ -3793,7 +3793,7 @@
     "productName": "STRIPED JACQUARD OVERSHIRT",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 45
 },
@@ -3803,7 +3803,7 @@
     "productName": "® ERIN WILSON PATCH OVERSHIRT",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Overshirt",
  "sale": 45
 },
@@ -3815,7 +3815,7 @@
     "productName": "COTTON AND SILK KNIT POLO SHIRT",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3825,7 +3825,7 @@
     "productName": "WOOL - SILK SWEATER",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3835,7 +3835,7 @@
     "productName": "COTTON SWEATER WITH PATCH DETAIL",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3845,7 +3845,7 @@
     "productName": "COMBINED KNIT T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 60
 },
@@ -3855,7 +3855,7 @@
     "productName": "GRAPHIC PRINT SWEATER",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3865,7 +3865,7 @@
     "productName": "ABSTRACT JACQUARD SWEATER",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3875,7 +3875,7 @@
     "productName": "STRIPED SWEATER",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3885,7 +3885,7 @@
     "productName": "MOUNTAIN JACQUARD CARDIGAN",
    "price": "₹ 2,290.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Knitwear",
  "sale": 50
 },
@@ -3897,7 +3897,7 @@
     "productName": "CONTRAST SLOGAN SHIRT",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 55
 },
@@ -3907,7 +3907,7 @@
     "productName": "COLOURED COTTON SHIRT",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 35
 },
@@ -3917,7 +3917,7 @@
     "productName": "LYOCELL - LINEN SHIRT",
    "price": "₹ 1,490.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 45
 },
@@ -3927,7 +3927,7 @@
     "productName": "WATERCOLOUR PRINT SHIRT",
    "price": "₹ 1,490.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 50
 },
@@ -3937,7 +3937,7 @@
     "productName": "SLOGAN PRINT SHIRT",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 55
 },
@@ -3947,7 +3947,7 @@
     "productName": "FLORAL PRINT SHIRT",
    "price": "₹ 1,490.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 45
 },
@@ -3957,7 +3957,7 @@
     "productName": "PALM TREE PRINT SHIRT",
    "price": "₹ 1,490.00",
 "strikedPrice": "₹ 2,999.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 50
 },
@@ -3967,7 +3967,7 @@
     "productName": "COTTON - HEMP SHIRT",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,999.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shirt",
  "sale": 55
 },
@@ -3979,7 +3979,7 @@
     "productName": "TIE-DYE PRINT SWEATSHIRT",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 55
 },
@@ -3989,7 +3989,7 @@
     "productName": "BASIC LIGHTWEIGHT T-SHIRT",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 25
 },
@@ -3999,7 +3999,7 @@
     "productName": "CHERRY COKE T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 50
 },
@@ -4009,7 +4009,7 @@
     "productName": "CONTRAST PRINT T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 50
 },
@@ -4019,7 +4019,7 @@
     "productName": "MICKEY MOUSE PRINT T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 50
 },
@@ -4029,7 +4029,7 @@
     "productName": "PIQUÉ TEXTURE T-SHIRT",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 50
 },
@@ -4039,7 +4039,7 @@
     "productName": "KNIT T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 45
 },
@@ -4049,7 +4049,7 @@
     "productName": "PAINT SPLATTER PRINT T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,999.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "T-Shirt",
  "sale": 50
 },
@@ -4061,7 +4061,7 @@
     "productName": "THE 90S SLIM FIT JEANS",
    "price": "₹ 2,490.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 45
 },
@@ -4071,7 +4071,7 @@
     "productName": "TEXTURED COTTON TROUSERS",
    "price": "₹ 1,790.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 60
 },
@@ -4081,7 +4081,7 @@
     "productName": "THE 90S CROPPED FIT JEANS",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 55
 },
@@ -4091,7 +4091,7 @@
     "productName": "COTTON - LYOCELL TROUSERS",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 55
 },
@@ -4101,7 +4101,7 @@
     "productName": "JOGGING TROUSERS WITH SIDE STRIPES",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 55
 },
@@ -4111,7 +4111,7 @@
     "productName": "FLORAL PRINT TROUSERS",
    "price": "₹ 1,790.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 60
 },
@@ -4121,7 +4121,7 @@
     "productName": "COTTON PLEATED TROUSERS",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 55
 },
@@ -4131,7 +4131,7 @@
     "productName": "SOFT DENIM TROUSERS",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Trousers",
  "sale": 55
 },
@@ -4143,7 +4143,7 @@
     "productName": "FLORAL PRINT BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 70
 },
@@ -4153,7 +4153,7 @@
     "productName": "ABSTRACT PRINT KNIT BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 75
 },
@@ -4163,7 +4163,7 @@
     "productName": "RIPPED DENIM BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 1,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 60
 },
@@ -4173,7 +4173,7 @@
     "productName": "CONTRAST BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 75
 },
@@ -4183,7 +4183,7 @@
     "productName": "STRIPED JOGGING BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 2,790.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 75
 },
@@ -4193,7 +4193,7 @@
     "productName": "STRAIGHT FIT DENIM BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 1,590.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 60
 },
@@ -4203,7 +4203,7 @@
     "productName": "BERMUDA SHORTS WITH SIDE TAPING",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 2,490.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 75
 },
@@ -4213,7 +4213,7 @@
     "productName": "SKATE FIT DENIM BERMUDA SHORTS",
    "price": "₹ 590.00",
 "strikedPrice": "₹ 2,490.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Shorts",
  "sale": 75
 },
@@ -4224,7 +4224,7 @@
     "productName": "TECHNICAL T-SHIRT WITH ZIP",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 3,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 50
 },
@@ -4234,7 +4234,7 @@
     "productName": "HOODIE",
    "price": "₹ 1,790.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 40
 },
@@ -4244,7 +4244,7 @@
     "productName": "TECHNICAL T-SHIRT WITH ZIP",
    "price": "₹ 1,990.00",
 "strikedPrice": "₹ 3,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 50
 },
@@ -4254,7 +4254,7 @@
     "productName": "SEAMLESS SINGLET TOP",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,890.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 55
 },
@@ -4264,7 +4264,7 @@
     "productName": "ZIP-UP NEXT T-SHIRT",
    "price": "₹ 1,790.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 40
 },
@@ -4274,7 +4274,7 @@
     "productName": "SEAMLESS SINGLET TOP",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,890.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 40
 },
@@ -4284,7 +4284,7 @@
     "productName": "SEAMLESS LEGGINGS",
    "price": "₹ 1,290.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 55
 },
@@ -4294,7 +4294,7 @@
     "productName": "LONG SLEEVE SEAMLESS T-SHIRT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "male",
+  "itemGender": "male",
   "itemCategory": "Zara_Athleticz",
  "sale": 65
 },
@@ -5888,7 +5888,7 @@
     "productName": "TEXTURED FLORAL DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "40 % OFF",
   "age": "6-14 Years"
@@ -5899,7 +5899,7 @@
     "productName": "HOUNDSTOOTH PINAFORE DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -5910,7 +5910,7 @@
     "productName": "TEXTURED CROSSOVER JUMPSUIT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -5921,7 +5921,7 @@
     "productName": "SHIMMERY VELVET LEGGINGS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "35 % OFF",
   "age": "6-14 Years"
@@ -5932,7 +5932,7 @@
     "productName": "FLORAL LOOSE FIT TROUSERS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "40 % OFF",
   "age": "6-14 Years"
@@ -5943,7 +5943,7 @@
     "productName": "PLAIN SWEATSHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45% OFF / +2 COLOURS",
   "age": "6-14 Years"
@@ -5954,7 +5954,7 @@
     "productName": "SHIRT WITH FLORAL KNOT",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45% OFF",
   "age": "6-14 Years"
@@ -5965,7 +5965,7 @@
     "productName": "TEXTURED PLUMETIS DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45% OFF",
   "age": "6-14 Years"
@@ -5976,7 +5976,7 @@
     "productName": "FLORAL SHIRT DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -5987,7 +5987,7 @@
     "productName": "PLAIN SWEATSHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "45% OFF / +2 COLOURS",
   "age": "6-14 Years"
@@ -5998,7 +5998,7 @@
     "productName": "RIBBED RAGLAN SLEEVE T-SHIRT",
    "price": "₹ 550.00",
 "strikedPrice": "₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6009,7 +6009,7 @@
     "productName": "TEXTURED FLORAL DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "40 % OFF",
   "age": "6-14 Years"
@@ -6021,7 +6021,7 @@
     "productName": "HOUNDSTOOTH PINAFORE DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -6032,7 +6032,7 @@
     "productName": "HOUNDSTOOTH PINAFORE DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -6043,7 +6043,7 @@
     "productName": "CONTRAST FLORAL RIBBED JUMPSUIT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -6054,7 +6054,7 @@
     "productName": "TEXTURED PLUMETIS DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -6065,7 +6065,7 @@
     "productName": "TEXTURED PLUMETIS DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "45% OFF",
   "age": "6-14 Years"
@@ -6076,7 +6076,7 @@
     "productName": "FLORAL SHIRT DRESS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "DRESSES | JUMPSUITS",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6087,7 +6087,7 @@
     "productName": "DENIM OVERSHIRT WITH SNAP BUTTONS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6098,7 +6098,7 @@
     "productName": "PAISLEY FAUX SHEARLING GILET",
    "price": "₹ 1,590.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "30% OFF",
   "age": "6-14 Years"
@@ -6109,7 +6109,7 @@
     "productName": "PAISLEY FAUX SHEARLING GILET",
    "price": "₹ 1,590.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "30% OFF",
   "age": "6-14 Years"
@@ -6120,7 +6120,7 @@
     "productName": "RIBBED POLO SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "55% OFF / +2 COLOURS",
   "age": "6-14 Years"
@@ -6131,7 +6131,7 @@
     "productName": "STRIPED T-SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "55% OFF",
   "age": "6-14 Years"
@@ -6142,7 +6142,7 @@
     "productName": "STRIPED T-SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "55% OFF",
   "age": "6-14 Years"
@@ -6153,7 +6153,7 @@
     "productName": "HOUNDSTOOTH OVERSHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6165,7 +6165,7 @@
     "productName": "RIBBED RAGLAN SLEEVE T-SHIRT",
    "price": "₹  550.00",
 "strikedPrice": "₹₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6176,7 +6176,7 @@
     "productName": "RIBBED T-SHIRT WITH HEARTS",
    "price": "₹  550.00",
 "strikedPrice": "₹₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "55% OFF",
   "age": "6-14 Years"
@@ -6187,7 +6187,7 @@
     "productName": "RIBBED T-SHIRT WITH HEARTS",
    "price": "₹  550.00",
 "strikedPrice": "₹₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "T-SHIRTS",
   "sale": "55% OFF",
   "age": "6-14 Years"
@@ -6198,7 +6198,7 @@
     "productName": "SHIMMERY VELVET LEGGINGS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "35 % OFF",
   "age": "6-14 Years"
@@ -6209,7 +6209,7 @@
     "productName": "SHINY TROUSERS WITH VENTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "55 % OFF",
   "age": "6-14 Years"
@@ -6220,7 +6220,7 @@
     "productName": "SHINY TROUSERS WITH VENTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "55 % OFF",
   "age": "6-14 Years"
@@ -6231,7 +6231,7 @@
     "productName": "FLORAL LOOSE FIT TROUSERS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "40 % OFF",
   "age": "6-14 Years"
@@ -6242,7 +6242,7 @@
     "productName": "RIBBED ANIMAL PRINT TROUSERS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "45 % OFF",
   "age": "6-14 Years"
@@ -6253,7 +6253,7 @@
     "productName": "FLORAL JACQUARD SEAMLESS LEGGINGS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "35 % OFF",
   "age": "6-14 Years"
@@ -6264,7 +6264,7 @@
     "productName": "FLORAL JACQUARD SEAMLESS LEGGINGS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "35 % OFF",
   "age": "6-14 Years"
@@ -6275,7 +6275,7 @@
     "productName": "SOFT MARINE JEANS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "40 % OFF",
   "age": "6-14 Years"
@@ -6286,7 +6286,7 @@
     "productName": "SHIRT WITH FLORAL KNOT",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "45% OFF",
   "age": "6-14 Years"
@@ -6297,7 +6297,7 @@
     "productName": "HOUNDSTOOTH OVERSHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6308,7 +6308,7 @@
     "productName": "RIBBED WAVY SEAMLESS TOP",
    "price": "₹ 550.00",
 "strikedPrice": "₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6319,7 +6319,7 @@
     "productName": "DENIM OVERSHIRT WITH SNAP BUTTONS",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6330,7 +6330,7 @@
     "productName": "RIBBED WAVY SEAMLESS TOP",
    "price": "₹ 550.00",
 "strikedPrice": "₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6341,7 +6341,7 @@
     "productName": "RIBBED WAVY SEAMLESS TOP",
    "price": "₹ 550.00",
 "strikedPrice": "₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6352,7 +6352,7 @@
     "productName": "SEAMLESS FLORAL JACQUARD TOP",
    "price": "₹ 550.00",
 "strikedPrice": "₹ 990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHIRTS | BLOUSES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6363,7 +6363,7 @@
     "productName": "CHECK PRINT BERMUDA SKORT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6374,7 +6374,7 @@
     "productName": "JACQUARD WRAP SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "65% OFF",
   "age": "6-14 Years"
@@ -6385,7 +6385,7 @@
     "productName": "GATHERED VELVET SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6396,7 +6396,7 @@
     "productName": "GATHERED VELVET SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6407,7 +6407,7 @@
     "productName": "PLAIN KNIT BERMUDA SHORTS",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "35% OFF / +1 COLOUR",
   "age": "6-14 Years"
@@ -6418,7 +6418,7 @@
     "productName": "CONTRAST FLORAL SKIRT",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "65% OFF",
   "age": "6-14 Years"
@@ -6429,7 +6429,7 @@
     "productName": "CONTRAST FLORAL SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "65% OFF",
   "age": "6-14 Years"
@@ -6440,7 +6440,7 @@
     "productName": "PLUSH JERSEY BOX PLEAT SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6451,7 +6451,7 @@
     "productName": "NEEDLECORD SKIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SKIRTS | SHORTS",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6462,7 +6462,7 @@
     "productName": "BEADED LEATHER MOUNTAIN ANKLE BOOTS",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6473,7 +6473,7 @@
     "productName": "TECHNICAL MOUNTAIN BOOTS - LIMITED EDITION",
    "price": "₹ 2,390.00",
 "strikedPrice": "₹ 3,790.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "35% OFF",
   "age": "6-14 Years"
@@ -6484,7 +6484,7 @@
     "productName": "LINED LEATHER ANKLE BOOTS",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 4,590.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "35% OFF",
   "age": "6-14 Years"
@@ -6495,7 +6495,7 @@
     "productName": "LEATHER MOUNTAIN BOOTS",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6506,7 +6506,7 @@
     "productName": "LEATHER MOUNTAIN BOOTS",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6517,7 +6517,7 @@
     "productName": "LEATHER MOUNTAIN BOOTS",
    "price": "₹ 2,990.00",
 "strikedPrice": "₹ 5,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "50% OFF",
   "age": "6-14 Years"
@@ -6528,7 +6528,7 @@
     "productName": "LEATHER WESTERN ANKLE BOOTS",
    "price": "₹ 2,390.00",
 "strikedPrice": "₹ 3,990.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "40% OFF",
   "age": "6-14 Years"
@@ -6540,7 +6540,7 @@
     "productName": "MONOCHROME RUBBERISED BOOTS",
    "price": "₹ 2,390.00",
 "strikedPrice": "₹ 3,590.00",
-  " itemGender": "womens",
+  "itemGender": "womens",
   "itemCategory": "SHOES",
   "sale": "30% OFF",
   "age": "6-14 Years"
@@ -6551,7 +6551,7 @@
     "productName": "LOGO HOODIE",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6562,7 +6562,7 @@
     "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6573,7 +6573,7 @@
     "productName": "BASIC PIQUÉ POLO SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6584,7 +6584,7 @@
     "productName": "BEACH WEEK T-SHIRT",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6595,7 +6595,7 @@
     "productName": "CORDUROY JOGGING TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6606,7 +6606,7 @@
     "productName": "JUST TROPICAL T-SHIRT",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6617,7 +6617,7 @@
     "productName": "CORDUROY JOGGING TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6628,7 +6628,7 @@
     "productName": "CONTRAST SPORTS TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "UP TO 50% OFF",
   "sale": "",
   "age": "6-14 Years"
@@ -6639,7 +6639,7 @@
     "productName": "LOGO HOODIE",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6650,7 +6650,7 @@
     "productName": "LOGO HOODIE",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6661,7 +6661,7 @@
     "productName": "PLAIN SWEATSHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6672,7 +6672,7 @@
     "productName": "PLAIN SWEATSHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6683,7 +6683,7 @@
     "productName": "PLAIN SWEATSHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6695,7 +6695,7 @@
     "productName": "TUXEDO BLAZER",
    "price": "₹ 2,390.00",
 "strikedPrice": "₹ 3,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6706,7 +6706,7 @@
     "productName": "PIKACHU POKÉMON © NINTENDO HOODIE",
    "price": "₹ 1,590.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6717,7 +6717,7 @@
     "productName": "CHEQUERED HOODIE",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SWEATSHIRTS | JACKETS",
   "sale": "",
   "age": "6-14 Years"
@@ -6728,7 +6728,7 @@
     "productName": "BASIC PIQUÉ POLO SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6739,7 +6739,7 @@
     "productName": "BASIC PIQUÉ POLO SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6750,7 +6750,7 @@
     "productName": "BASIC PIQUÉ POLO SHIRT",
    "price": "₹ 350.00",
 "strikedPrice": "₹ 490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6761,7 +6761,7 @@
     "productName": "JUST TROPICAL T-SHIRT",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6772,7 +6772,7 @@
     "productName": "JUST TROPICAL T-SHIRT",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 790.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6783,7 +6783,7 @@
     "productName": "KEITH HARING ™ T-SHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6794,7 +6794,7 @@
     "productName": "KEITH HARING ™ T-SHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6805,7 +6805,7 @@
     "productName": "KEITH HARING ™ T-SHIRT",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "T-SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6816,7 +6816,7 @@
     "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6827,7 +6827,7 @@
     "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6838,7 +6838,7 @@
     "productName": "HOUNDSTOOTH TROUSERS WITH ELASTIC WAIST",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6849,7 +6849,7 @@
     "productName": "SKELETON JUMPSUIT",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 2,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6860,7 +6860,7 @@
     "productName": "CORDUROY JOGGING TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6871,7 +6871,7 @@
     "productName": "CORDUROY JOGGING TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6882,7 +6882,7 @@
     "productName": "CORDUROY JOGGING TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6893,7 +6893,7 @@
     "productName": "CONTRAST SPORTS TROUSERS",
    "price": "₹ 990.00",
 "strikedPrice": "₹ 1,990.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "TROUSERS | JEANS",
   "sale": "",
   "age": "6-14 Years"
@@ -6904,7 +6904,7 @@
     "productName": "FLANNEL SHIRT WITH SLOGAN",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6915,7 +6915,7 @@
     "productName": "FLANNEL SHIRT WITH SLOGAN",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6926,7 +6926,7 @@
     "productName": "HOODED CORDUROY OVERSHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6937,7 +6937,7 @@
     "productName": "HOODED CORDUROY OVERSHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 2,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6948,7 +6948,7 @@
     "productName": "TEXTURED SHIRT",
    "price": "₹ 790.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6959,7 +6959,7 @@
     "productName": "MICRO-TEXTURED SHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6970,7 +6970,7 @@
     "productName": "STRIPED SHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6981,7 +6981,7 @@
     "productName": "BASIC SHIRT",
    "price": "₹ 1,190.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHIRTS",
   "sale": "",
   "age": "6-14 Years"
@@ -6992,7 +6992,7 @@
     "productName": "TIE-DYE PLUSH BERMUDA SHORTS",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7003,7 +7003,7 @@
     "productName": "FLOWING LONGLINE BERMUDA SHORTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7014,7 +7014,7 @@
     "productName": "CHINO-STYLE BERMUDA SHORTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7025,7 +7025,7 @@
     "productName": "CHINO-STYLE BERMUDA SHORTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7036,7 +7036,7 @@
     "productName": "BASIC CHINO BERMUDA SHORTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,490.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7047,7 +7047,7 @@
     "productName": "DIP DYE PLUSH BERMUDA SHORTS",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7058,7 +7058,7 @@
     "productName": "SPORTY PLUSH BERMUDA SHORTS",
    "price": "₹ 450.00",
 "strikedPrice": "₹ 1,290.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7069,7 +7069,7 @@
     "productName": "RIBBED TECHNICAL BERMUDA SHORTS",
    "price": "₹ 690.00",
 "strikedPrice": "₹ 1,690.00",
-  " itemGender": "mens",
+  "itemGender": "mens",
   "itemCategory": "SHORTS",
   "sale": "",
   "age": "6-14 Years"
@@ -7080,7 +7080,7 @@
     "productName": "QUILTED MINI CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CROSSBODY BAG",
  "sale": "45%"
 },
@@ -7090,7 +7090,7 @@
     "productName": "ANIMAL PRINT QUILTED CROSSBODY BAG ",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,190.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PRINTED BAG",
  "sale": "50%"
 },
@@ -7100,7 +7100,7 @@
     "productName": "QUILTED MINI CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "QUILTED MINI BAG ",
  "sale": "45%"
 },
@@ -7110,7 +7110,7 @@
     "productName": "NYLON MINI TOTE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,190.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "NYLON MINI BAG",
  "sale": "45%"
 },
@@ -7120,7 +7120,7 @@
     "productName": "TRANSPARENT MINI TOTE BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "TOTE BAG",
  "sale": "45%"
 },
@@ -7130,7 +7130,7 @@
     "productName": "QUILTED CITY BAG WITH CHAIN STRAP",
 "strikedPrice": "₹ 4,290.00",
    "price": "₹ 2,790.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CHAIN STRAP BAG",
  "sale": "30%"
 },
@@ -7140,7 +7140,7 @@
     "productName": "FAUX FUR SHOULDER BAG WITH CHAIN",
 "strikedPrice": "₹ 3,590.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "SHOULDER BAG",
    "sale": "35%"
 },
@@ -7150,7 +7150,7 @@
     "productName": "QUILTED FABRIC CROSSBODY BAG",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CROSSBODY BAG",
  "sale": "45%"
 },
@@ -7160,7 +7160,7 @@
     "productName": "SHOULDER BAG WITH CHAIN",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "CHAIN BAG",
  "sale": "45%"
 },
@@ -7170,7 +7170,7 @@
     "productName": " TOTE BAG WITH INTERWOVEN BASE",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "INTERWOVEN BASE BAG",
  "sale": "45%"
 },
@@ -7180,7 +7180,7 @@
     "productName": "PICNIC CASE",
 "strikedPrice": "₹ 4,990.00",
    "price": "₹ 3,990.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PICNIC CASE",
    "sale": "20%"
 },
@@ -7190,7 +7190,7 @@
     "productName": "NYLON TOTE BAG WITH HANDLES AT THE FRONT",
 "strikedPrice": "₹ 2,990.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "NYLON TOTE BAG ",
  "sale": "45%"
 },
@@ -7200,7 +7200,7 @@
     "productName": "STUDDED MOBILE PHONE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "PHONE BAG",
    "sale": "35%"
 },
@@ -7210,7 +7210,7 @@
     "productName": "BRAIDED SHOULDER BAG",
 "strikedPrice": "₹ 2,490.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BRAIDED BAG",
    "sale": "35%"
 },
@@ -7220,7 +7220,7 @@
     "productName": "RIGID TRAVEL CASE",
 "strikedPrice": "₹ 4,990.00",
    "price": "₹ 3,990.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": " TRAVEL CASE",
    "sale": "20%"
 },
@@ -7231,7 +7231,7 @@
     "productName": "PURPLE® WRISTBAND",
 "strikedPrice": "₹ 2,490.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "WRISTBAND",
    "sale": "35%"
 },
@@ -7241,7 +7241,7 @@
     "productName": "QUILTED BACKPACK",
 "strikedPrice": "₹ 3,590.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BACKPACK",
    "sale": "35%"
 },
@@ -7251,7 +7251,7 @@
     "productName": "CROCHET MAXI BUCKET BAG",
 "strikedPrice": "₹ 3,290.00",
    "price": "₹ 2,290.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "MAXI BUCKET BAG",
  "sale": "30%"
 },
@@ -7261,7 +7261,7 @@
     "productName": "SATIN BUCKET BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "BUCKET BAG",
    "sale": "35%"
 },
@@ -7271,7 +7271,7 @@
     "productName": "JUTE TOTE BAG",
 "strikedPrice": "₹ 2,590.00",
    "price": "₹ 1,590.00",
-  " itemGender": "Women",
+  "itemGender": "Women",
   "itemCategory": "JUTE TOTE BAG",
    "sale": "35%"
 }
